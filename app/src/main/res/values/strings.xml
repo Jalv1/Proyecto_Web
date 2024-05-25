@@ -15,4 +15,5 @@
     <string name="valetemail">Enter email</string>
     <string name="valetpassword">Enter password</string>
     <string name="valtitlelogin1">WELCOME TO A NEW EXPERIENCE</string>
+    <string name="txtHome">HOME</string>
 </resources>
